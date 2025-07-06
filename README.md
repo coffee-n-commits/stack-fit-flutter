@@ -35,3 +35,23 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 ```bash
 git clone https://github.com/coffee-n-commits/stack-fit-flutter.git
 cd stack-fit-flutter
+
+## 🎯 Upcoming
+
+- Dark mode support  
+- Offline syncing  
+- Push notification reminders  
+- AI-based personalized workout plans
+
+---
+
+## 🤍 Author
+
+Made with commits, caffeine & no sleep ☕  
+[@coffeeandcommits](https://twitter.com/coffeeandcommits)
+
+---
+
+## 📄 License
+
+MIT © [coffeeandcommits](https://github.com/coffee-n-commits)
