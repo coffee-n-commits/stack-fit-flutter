@@ -50,7 +50,7 @@ cd stack-fit-flutter
 ## 🤍 Author
 
 Made with commits, caffeine & no sleep ☕  
-[@coffeeandcommits](https://twitter.com/coffeeandcommits)
+[@coffeeandcommits](https://x.com/coffee_ncommits)
 
 ---
 
