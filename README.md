@@ -36,6 +36,8 @@ Track your workouts, crush your goals, and build consistency — one rep at a ti
 git clone https://github.com/coffee-n-commits/stack-fit-flutter.git
 cd stack-fit-flutter
 
+```
+
 ## 🎯 Upcoming
 
 - Dark mode support  
